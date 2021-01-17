@@ -1,0 +1,14 @@
+.button-2x {
+  font-family: sans-serif;
+  color: #fff;
+  background-color: rgb(66, 168, 175);
+  font-weight: bold;
+  font-size: 13px;
+  padding: 5px 8px;
+  border-radius: 8px;
+  margin: 0 7px;
+  transition: all ease-in 0.3s;
+}
+.button-red {
+  background-color: rgb(167, 19, 19);
+}
